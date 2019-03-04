@@ -10,13 +10,13 @@
 
 ### 专业技能
 * 熟悉主流的编程语言，C++、java和python等，并做过相关的课程设计
-* 熟悉基本的数据结构和算法
+* 熟悉常用的数据结构、算法与设计模式
 * 熟悉Android运行机制和性能指标，负责UI性能优化及其重构工作
 * 熟悉Android Architecture Components框架，项目使用kotlin，加快开发速度
 * 熟悉Dagger2和Rxjava2的使用，解耦模块，封装其相应模块
 * 拥有良好的的阅读学习源代码能力，阅读过部分常用开源库等代码并学习其设计理念
 
-### 个人项目
+### 项目经历
 * 有分别用Android Architecture Components + Dagger2 + Rxjava2和React Native实现的上线APP
 * 对数据敏感，python + scrapy 完成各类爬虫,并进行数据分析
 * [个人博客：https://github.com/yunshuipiao/SWBlog](https://github.com/yunshuipiao/SWBlog)
